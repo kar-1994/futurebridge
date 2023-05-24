@@ -1,0 +1,13 @@
+.movie-card {
+  margin-top: 5px;
+}
+.movie-header {
+  background-color: blanchedalmond;
+  color: #876544;
+}
+.movie-body {
+  background-color: cadetblue;
+}
+.movie-footer {
+  background-color: blanchedalmond;
+}
